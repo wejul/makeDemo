@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello Udara!\n");
+  printf("Hello makefiles!\n");
 
   return;
 }
